@@ -194,3 +194,6 @@ cython_debug/
 .cursorindexingignore
 
 NB0_conversion_to_parquet.ipynb
+data/test.csv 
+data/train.csv
+data/predicted.csv
