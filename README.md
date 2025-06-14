@@ -1,4 +1,4 @@
-# Restaurant_Classification
+# Restaurant Classification
 
 ## Overview
 This project examines a sample of a database of restaurants and various attribututes, including a collection of their reviews. The data is provided through a Kaggle Competition in which the objective is to improve upon a baseline model's accuracy of 0.77591 in classifying the type of restaurant. The data is primarily processed in Python using Pandas with simple machine learning models in scikit-learn used. 
@@ -15,9 +15,11 @@ The most effective tested approach was applying a TF-IDF Vectorizer to the revie
 
 ## Initial Visualizations
 Figure 1: Scree Plot of Pricipal Components
+
 <img src="/images/scree_plot.png" alt="Figure 1" width="500">
 
 Figure 2: Cumulative Variance Plot of Principal Components
+
 <img src="/images/explained_variance_plot.png" alt="Figure 2" width="500">
 
 ## Modeling Approach and Results
