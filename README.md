@@ -18,7 +18,7 @@ Figure 1: Scree Plot of Pricipal Components
 <img src="/images/scree_plot.png" alt="Figure 1" width="500">
 
 Figure 2: Cumulative Variance Plot of Principal Components
-<img src="/images/explained_variance_plot.png.png" alt="Figure 1" width="500">
+<img src="/images/explained_variance_plot.png" alt="Figure 2" width="500">
 
 ## Modeling Approach and Results
 With the constraint of resources and time (running on local setup), only 8 models were set up and tested, with results as follows: 
